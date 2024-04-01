@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: LearnAngular
+  annotations:
+    github.com/project-slug: LolitsAle/LearnAngular
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
